@@ -27,3 +27,13 @@ Daca se foloseste la script b in loc de p atunci parantezele matr vor fi patrate
 - `{pmatrix}`  p
 - `{bmatrix}`  b
 - `{vmatrix}`  v
+
+
+# Scrierea sistemelor de ecuatii
+
+$$
+\begin{align}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c
+\end{align}
+$$
