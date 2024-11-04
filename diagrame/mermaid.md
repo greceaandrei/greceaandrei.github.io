@@ -27,3 +27,31 @@ C --> |Tranzitie medie| D(Master)
  - Conectorii au:
    - Diferite tipuri de sageti sau chiar pot activa fara sageti
    - Diferite tipuri de linii: `-->` linie continua, `-.->` linie punctata, `--` linie continua fara sageti, `<-->` linie continua cu sageti in ambele sensuri, `==>` linie ingrosata cu sageata spre dreapta.
+  
+## Diagrame _flowchart_ avansate
+
+```
+A--> B & C & D --> E
+```
+
+# Diagrma de tip _timeline_
+
+``'
+title "My timeline"
+section "sectiunea 1"
+
+2023-2024
+        : Am luat bacalaureatul
+        : Am luat contact cu mediul academic
+2024-2025
+        : Am terminat anul I
+        : Am facut practica 
+
+section "sectiunea 2"
+
+2025-2026
+        : Am facut practica la fotogrammetrie 
+2027-2028
+        : Anul terminal IV
+        : Am terminat facultatea
+```
