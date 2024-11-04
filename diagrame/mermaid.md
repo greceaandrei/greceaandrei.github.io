@@ -41,7 +41,7 @@ title "My timeline"
 section "sectiunea 1"
 
 2023-2024
-        : Am luat bacalaureatul
+        : Am luat la facultate
         : Am luat contact cu mediul academic
 2024-2025
         : Am terminat anul I
