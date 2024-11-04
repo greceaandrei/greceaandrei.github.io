@@ -7,5 +7,5 @@
 ```mermaid
 flowchart LR
 A[Anul I] --> |Tranzitie usoara| B[Anul II]
-A -.> |Tranzitie grea| C[\Anul IV/]
+A -.-> |Tranzitie grea| C[\Anul IV/]
 ```
